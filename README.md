@@ -1,4 +1,4 @@
-Proyecto DJANGO Rest Framework
+# Proyecto DJANGO Rest Framework
 
 Esta es una aplicación web que te permite agregar proyectos en los que hayas trabajado,
 poniendo el titulo del proyecto, junto con la descripción del proyecto, además de poner
